@@ -1,6 +1,6 @@
 {
-  "name": "halyard",
-  "version": "0.0.1",
+  "name": "Halyard",
+  "version": "0.0.2",
   "description": "Coming soon",
   "main": "mimir.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/StefanEnberg/halyard.git"
   },
   "keywords": [
-    "Mimir"
+    "Halyard"
   ],
   "author": {
     "name": "Stefan Enberg",
@@ -19,7 +19,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/StefanEnberg/mimir.js/issues"
+    "url": "https://github.com/StefanEnberg/halyard/issues"
   },
-  "homepage": "https://github.com/StefanEnberg/mimir.js"
+  "homepage": "https://github.com/StefanEnberg/halyard.js"
 }
